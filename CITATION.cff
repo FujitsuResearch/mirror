@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the MIRROR paper. Final DOI metadata will be added after publication."
+title: "MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG"
+authors:
+  - family-names: "Singh"
+    given-names: "Inderjeet"
+  - family-names: "Murillo"
+    given-names: "Andrés"
+  - family-names: "Sekiya"
+    given-names: "Motoyoshi"
+  - family-names: "Unno"
+    given-names: "Yuki"
+  - family-names: "Suga"
+    given-names: "Junichi"
+year: 2026
+conference:
+  name: "IEEE World Congress on Computational Intelligence / International Joint Conference on Neural Networks"
+repository-code: "https://github.com/FujitsuResearch/mirror"
+license: "BSD-3-Clause"
