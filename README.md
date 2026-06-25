@@ -64,11 +64,9 @@ python scripts/compute_metrics_from_jsonl.py path/to/payload_free_results.jsonl
 
 ## Dataset
 
-The paper uses ART-SafeBench. The dataset is hosted separately on Hugging Face:
+The paper uses [ART-SafeBench](https://huggingface.co/datasets/Fujitsu/agentic-rag-redteam-bench). The dataset is hosted separately on Hugging Face:
 
-```text
-https://huggingface.co/datasets/Fujitsu/agentic-rag-redteam-bench
-```
+[https://huggingface.co/datasets/Fujitsu/agentic-rag-redteam-bench](https://huggingface.co/datasets/Fujitsu/agentic-rag-redteam-bench)
 
 Dataset records are not vendored into this code repository. The dataset page is public but gated, so users may need to log in and accept the dataset terms on Hugging Face.
 
